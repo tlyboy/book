@@ -1,0 +1,6 @@
+[book]
+authors = ["Guany"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "Guany 的书"
