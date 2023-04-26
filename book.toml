@@ -4,3 +4,8 @@ language = "zh-CN"
 multilingual = false
 src = "src"
 title = "Guany 的书"
+
+[output.html]
+git-repository-url = "https://github.com/tlyboy/book"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/tlyboy/book/edit/main/{path}"
